@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Thesis defense successful"
+date:   2014-12-16 15:45:00
+categories: news
+--- 
+Last Tuesday, I successfully defended my doctoral thesis, titled "Generalized Lorenz-Mie Theory: Application to scattering and eigenmodes of photonic structures". The full text of the thesis is available the [website][dynamica] of my research groupe. 
+
+I will be pursuing my research as a postdoctoral fellow at INRS-EMT in a few months. Stay tuned for more details!
+
+[dynamica]:      http://www.dynamica.phy.ulaval.ca/theses
