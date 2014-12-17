@@ -1,10 +1,9 @@
 # Site settings
 title: Denis Gagnon
-#email: gagnon88@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Physicist specialized in numerical modeling and computer enthusiast
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mcnoggins.github.io" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://denisgagnon.info"
 twitter_username: madgagnon
 github_username:  McNoggins
 
