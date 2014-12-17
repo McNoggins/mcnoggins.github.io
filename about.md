@@ -18,4 +18,4 @@ See my publications page for further details.
 Useful links
 ====================
 
-You can also view my LinkedIn profile.
+You can also view my [Linkedin](http://ca.linkedin.com/in/degagnon/){:target="_blank"} profile.
