@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am a PhD candidate in Physics at Universit&eacute; Laval, Canada. I am a member of Prof. Louis J. Dub&eacute;'s research group.
+I am a physics graduate at Universit&eacute; Laval, Canada. I am a member of Prof. Louis J. Dub&eacute;'s research group.
 
 Research interests
 ====================
