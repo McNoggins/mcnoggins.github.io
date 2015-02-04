@@ -4,18 +4,21 @@ title: About me
 permalink: /about/
 ---
 
-I am a physics graduate at Universit&eacute; Laval, Canada. I am a member of Prof. Louis J. Dub&eacute;'s research group.
+I am a physics graduate from Universit&eacute; Laval, Canada. I graduated from [Prof. Louis J. Dub&eacute;'s group][dynamica] in 2014. I am now working as a Postdoctoral Intern at [INRS-ÉMT][EMT] in Varennes, Canada. You will find more about my research interests and my work on this webpage.
 
 Research interests
 ====================
 
-My main research area is computational electromagnetics. More specifically, I am interested in using metaheuristics to optimize integrated photonics devices. Lately, I have worked on designing beam shaping devices using photonic crystals.
+My main research area is electromagnetic theory and lasers. My doctoral work was concerned with using metaheuristic algorithms to optimize integrated photonics devices. I have also worked on designing beam shaping devices using photonic crystals.
 
-I am also interested in modeling complex photonic media, including photonic microresonators and random lasers.
+I am also interested in complex photonic media, including photonic microresonators and random lasers, as well as quantum optics.
 
-See my publications page for further details.
+See my [publications](/publications) page for further details.
 
 Useful links
 ====================
 
 You can also view my [Linkedin](http://ca.linkedin.com/in/degagnon/){:target="_blank"} profile.
+
+[dynamica]:      http://www.dynamica.phy.ulaval.ca
+[EMT]:      http://www.emt.inrs.ca
