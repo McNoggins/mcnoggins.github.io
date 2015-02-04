@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Post-doc"
+date:   2015-02-02 12:00:00
+categories: news
+--- 
+My doctoral degree is now printed and I am now a Postodoctoral Intern at [INRS-ÉMT][EMT] in Varennes, Québec. Stay tuned for more updates!
+
+[EMT]:      http://www.emt.inrs.ca
