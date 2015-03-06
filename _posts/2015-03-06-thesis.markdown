@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Thesis published"
+date:   2015-03-06 9:00:00
+categories: news
+--- 
+The electronic version of my thesis has now been published on Université Laval's [online repository][UL]. It is freely accessible to everyone.
+
+[UL]:      http://www.theses.ulaval.ca/2014/31344/31344.pdf
