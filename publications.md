@@ -6,6 +6,11 @@ permalink: /publications/
 
 In peer-reviewed journals
 =============
+* **Toward the formation of crossed laser-induced periodic surface structures** <br>
+Jean-Luc Déziel, Joey Dumont, *Denis Gagnon*, Louis J. Dubé, Sandra Messaddeq and Younès Messaddeq <br>
+Submitted for publication <br>
+[arXiv.org](http://arxiv.org/abs/1410.0583){:target="_blank"}
+
 * **Optimization of integrated polarization filters** <br>
 *Denis Gagnon*, Joey Dumont, Jean-Luc Déziel and Louis J. Dubé <br>
 Opt. Lett. **39**, 5768-5771 (2014) <br>
