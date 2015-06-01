@@ -6,6 +6,11 @@ permalink: /publications/
 
 In peer-reviewed journals
 =============
+* **Lorenz-Mie theory for 2D scattering and resonance calculations (tutorial)** <br>
+*Denis Gagnon* and Louis J. Dubé <br>
+Submitted for publication <br>
+[arXiv.org](http://arxiv.org/abs/1505.07691){:target="_blank"}
+
 * **Toward the formation of crossed laser-induced periodic surface structures** <br>
 Jean-Luc Déziel, Joey Dumont, *Denis Gagnon*, Louis J. Dubé, Sandra Messaddeq and Younès Messaddeq <br>
 Submitted for publication <br>
