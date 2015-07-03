@@ -13,7 +13,8 @@ Submitted for publication <br>
 
 * **Toward the formation of crossed laser-induced periodic surface structures** <br>
 Jean-Luc Déziel, Joey Dumont, *Denis Gagnon*, Louis J. Dubé, Sandra Messaddeq and Younès Messaddeq <br>
-To appear in J. Opt. (2015) <br>
+J. Opt. **17**, 075405 (2015) <br>
+[Full text](http://dx.doi.org/10.1088/2040-8978/17/7/075405){:target="_blank"} |
 [arXiv.org](http://arxiv.org/abs/1410.0583){:target="_blank"}
 
 * **Optimization of integrated polarization filters** <br>
