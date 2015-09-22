@@ -1,12 +1,12 @@
-+---
-+layout: post
-+title:  "New tutorial article published in J. Opt. (IOP)"
-+date:   2015-09-22 13:45:00
-+categories: news
-+--- 
-+My latest article was recently published as a Tutorial in J. Opt. The title is *Lorenz-Mie theory for 2D scattering and resonance calculations*. It cand be found [here][Paper], and the preprint can be found [here][Preprint]. It is a condensed version of a numerical method I used in my doctoral thesis. I hope that new researchers or graduate students can find a useful resource in this article.
-+
-+The article is concerned with a description of the two-dimensional generalized Lorenz-Mie theory (2D-GLMT), a well-established numerical method used to compute the interaction of light with arrays of cylinders. The purpose of this tutorial is to enable students or new researchers assemble the practical tools necessary to implement the 2D-GLMT method for their own purposes. Enjoy!
-+
-+[Paper]:      http://dx.doi.org/10.1088/2040-8978/17/10/103501
-+[Preprint]:   http://arxiv.org/abs/1505.07691
+---
+layout: post
+title:  "New tutorial article published in J. Opt. (IOP)"
+date:   2015-09-22 13:45:00
+categories: news
+--- 
+My latest article was recently published as a Tutorial in J. Opt. The title is *Lorenz-Mie theory for 2D scattering and resonance calculations*. It cand be found [here][Paper], and the preprint can be found [here][Preprint]. It is a condensed version of a numerical method I used in my doctoral thesis. I hope that new researchers or graduate students can find a useful resource in this article.
+
+The article is concerned with a description of the two-dimensional generalized Lorenz-Mie theory (2D-GLMT), a well-established numerical method used to compute the interaction of light with arrays of cylinders. The purpose of this tutorial is to enable students or new researchers assemble the practical tools necessary to implement the 2D-GLMT method for their own purposes. Enjoy!
+
+[Paper]:      http://dx.doi.org/10.1088/2040-8978/17/10/103501
+[Preprint]:   http://arxiv.org/abs/1505.07691
