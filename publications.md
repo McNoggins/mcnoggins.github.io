@@ -8,7 +8,8 @@ In peer-reviewed journals
 =============
 * **Lorenz-Mie theory for 2D scattering and resonance calculations (tutorial)** <br>
 *Denis Gagnon* and Louis J. Dubé <br>
-Submitted for publication <br>
+J. Opt. **17**, 103501 (2015) <br>
+[Full text]http://dx.doi.org/10.1088/2040-8978/17/10/103501{:target="_blank"} |
 [arXiv.org](http://arxiv.org/abs/1505.07691){:target="_blank"}
 
 * **Toward the formation of crossed laser-induced periodic surface structures** <br>
