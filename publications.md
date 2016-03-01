@@ -8,7 +8,7 @@ In peer-reviewed journals
 =============
 * **Constructive feedback for the growth of laser-induced periodic surface structures** <br>
 Jean-Luc Déziel, Joey Dumont, *Denis Gagnon*, Louis J. Dubé, Sandra Messaddeq and Younès Messaddeq <br>
-Phys. Status Solidi C. (Early view) <br>
+Phys. Status Solidi C **13**, 121–124 (2016) <br>
 [Full text](http://onlinelibrary.wiley.com/doi/10.1002/pssc.201510146/abstract){:target="_blank"} |
 [arXiv.org](http://arxiv.org/abs/1507.02490){:target="_blank"}
 
