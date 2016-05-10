@@ -6,6 +6,11 @@ permalink: /publications/
 
 In peer-reviewed journals
 =============
+* **Driven quantum tunneling and pair creation with graphene Landau levels** <br>
+*Denis Gagnon*, François Fillion-Gourdeau, Joey Dumont, Catherine Lefebvre, and Steve MacLean <br>
+Phys. Rev. B **93**, 205415 (2016) <br>
+[Full text](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.205415){:target="_blank"} |
+
 * **Constructive feedback for the growth of laser-induced periodic surface structures** <br>
 Jean-Luc Déziel, Joey Dumont, *Denis Gagnon*, Louis J. Dubé, Sandra Messaddeq and Younès Messaddeq <br>
 Phys. Status Solidi C **13**, 121–124 (2016) <br>
