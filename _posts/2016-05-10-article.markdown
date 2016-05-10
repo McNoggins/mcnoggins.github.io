@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New graphene paper in Phys. Rev. B"
+date:   2016-05-10 10:52:00
+categories: news
+--- 
+My latest article was published in Phys. Rev. B. It is concerned with driven tunneling in magnetized graphene.
+
+[Paper]:      http://link.aps.org/doi/10.1103/PhysRevB.93.205415
