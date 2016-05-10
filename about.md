@@ -13,6 +13,8 @@ My main research area is electromagnetic theory and lasers. My doctoral work was
 
 I am also interested in complex photonic media, including photonic microresonators and random lasers, as well as quantum optics.
 
+In recent years, I have been working on light-matter interactions and 2D materials (specifically graphene).
+
 See my [publications](/publications) page for further details.
 
 Useful links
