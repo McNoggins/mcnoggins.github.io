@@ -17,6 +17,8 @@ In recent years, I have been working on light-matter interactions and 2D materia
 
 See my [publications](/publications) page for further details.
 
+<div style="width:100%;text-align:center"><iframe src="https://orcid.org/static/html/widget.html?orcid=0000-0002-8293-2674&t=ba911b&locale=en" frameborder="0" height="310" width="210px" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" allowtransparency="true"></iframe></div>
+
 Useful links
 ====================
 
