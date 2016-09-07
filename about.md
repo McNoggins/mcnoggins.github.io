@@ -15,7 +15,7 @@ I am also interested in complex photonic media, including photonic microresonato
 
 In recent years, I have been working on light-matter interactions and 2D materials (specifically graphene).
 
-See my [publications](/publications) page for further details.
+See my [publications](/publications), [Google Scholar][scholar] profile or [ORCID][orcid] for further details.
 
 Useful links
 ====================
@@ -24,3 +24,5 @@ You can also view my [Linkedin](http://ca.linkedin.com/in/degagnon/){:target="_b
 
 [dynamica]:      http://www.dynamica.phy.ulaval.ca
 [EMT]:      http://www.emt.inrs.ca
+[scholar]:  https://scholar.google.ca/citations?user=tJ8gkbEAAAAJ&hl=en
+[orcid]:    http://orcid.org/0000-0002-8293-2674
