@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Quantum interference paper in Phys. Rev. B"
+date:   2016-09-16 10:52:00
+categories: news
+--- 
+The latest contribution of our group on quantum interference in graphene can be found [here][Paper].
+
+[Paper]:      http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.125423
