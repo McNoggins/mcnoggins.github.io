@@ -6,6 +6,12 @@ permalink: /publications/
 
 In peer-reviewed journals
 =============
+* **Time-domain quantum interference in graphene** <br>
+François Fillion-Gourdeau, *Denis Gagnon*, Catherine Lefebvre, and Steve MacLean <br>
+Phys. Rev. B **94**, 125423 (2016) <br>
+[Full text](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.125423){:target="_blank"} |
+[arXiv.org](http://arxiv.org/abs/1607.02055){:target="_blank"}
+
 * **Driven quantum tunneling and pair creation with graphene Landau levels** <br>
 *Denis Gagnon*, François Fillion-Gourdeau, Joey Dumont, Catherine Lefebvre, and Steve MacLean <br>
 Phys. Rev. B **93**, 205415 (2016) <br>
