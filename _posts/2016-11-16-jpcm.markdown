@@ -1,9 +1,9 @@
-+---
-+layout: post
-+title:  "New graphene paper published in JPCM"
-+date:   2016-11-16 15:00:00
-+categories: news
-+--- 
-+Our latest contribution on coherent destruction of tunneling in laser-irradiated graphene has been published in Journal of Physics: Condensed Matter. It can be found [here][Paper].
-+
-+[Paper]:      http://iopscience.iop.org/article/10.1088/0953-8984/29/3/035501/meta
+---
+layout: post
+title:  "New graphene paper published in JPCM"
+date:   2016-11-16 15:00:00
+categories: news
+--- 
+Our latest contribution on coherent destruction of tunneling in laser-irradiated graphene has been published in Journal of Physics: Condensed Matter. It can be found [here][Paper].
+
+[Paper]:      http://iopscience.iop.org/article/10.1088/0953-8984/29/3/035501/meta
