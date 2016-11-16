@@ -6,6 +6,12 @@ permalink: /publications/
 
 In peer-reviewed journals
 =============
+* **Coherent destruction of tunneling in graphene irradiated by elliptically polarized lasers** <br>
+*Denis Gagnon*, François Fillion-Gourdeau, Joey Dumont, Catherine Lefebvre, and Steve MacLean  <br>
+J. Phys.: Condens. Matter **29**, 035501 (2017) <br>
+[Full text](http://iopscience.iop.org/article/10.1088/0953-8984/29/3/035501){:target="_blank"} |
+[arXiv.org](https://arxiv.org/abs/1609.02821){:target="_blank"}
+
 * **Time-domain quantum interference in graphene** <br>
 François Fillion-Gourdeau, *Denis Gagnon*, Catherine Lefebvre, and Steve MacLean <br>
 Phys. Rev. B **94**, 125423 (2016) <br>
