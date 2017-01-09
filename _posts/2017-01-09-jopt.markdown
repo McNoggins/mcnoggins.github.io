@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Beam propagation paper in J. Opt"
+date:   2017-01-09 16:01:00
+categories: news
+--- 
+The latest contribution of our group on tightly focused laser fields can be found [here][Paper]. It is the result of months of hard work by our colleague J. Dumont.
+
+[Paper]:      http://iopscience.iop.org/article/10.1088/2040-8986/aa52e9
