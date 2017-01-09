@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Physicist specialized in numerical modeling and computer enthusiast
 baseurl: ""
 url: "http://denisgagnon.info"
-twitter_username: madgagnon
+twitter_username: DenGagn
 github_username:  McNoggins
 
 # Build settings
