@@ -6,6 +6,13 @@ permalink: /publications/
 
 In peer-reviewed journals
 =============
+* **Efficiently parallelized modeling of tightly focused, large bandwidth laser pulses** <br>
+Joey Dumont, François Fillion-Gourdeau, Catherine Lefebvre, *Denis Gagnon*, and Steve MacLean  <br>
+ J. Opt. **19**, 025604 (2017) <br>
+[Full text](http://iopscience.iop.org/article/10.1088/2040-8986/aa52e9){:target="_blank"} |
+[arXiv.org](https://arxiv.org/abs/1609.08146){:target="_blank"}
+
+
 * **Coherent destruction of tunneling in graphene irradiated by elliptically polarized lasers** <br>
 *Denis Gagnon*, François Fillion-Gourdeau, Joey Dumont, Catherine Lefebvre, and Steve MacLean  <br>
 J. Phys.: Condens. Matter **29**, 035501 (2017) <br>
