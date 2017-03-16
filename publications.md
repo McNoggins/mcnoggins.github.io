@@ -6,6 +6,11 @@ permalink: /publications/
 
 In peer-reviewed journals
 =============
+* **Suppression of multiphoton resonances in driven quantum systems via pulse shape optimization** <br>
+*Denis Gagnon*, François Fillion-Gourdeau, Joey Dumont, Catherine Lefebvre, and Steve MacLean  <br>
+Full text |
+[arXiv.org](https://arxiv.org/abs/1703.04165){:target="_blank"}
+
 * **Efficiently parallelized modeling of tightly focused, large bandwidth laser pulses** <br>
 Joey Dumont, François Fillion-Gourdeau, Catherine Lefebvre, *Denis Gagnon*, and Steve MacLean  <br>
  J. Opt. **19**, 025604 (2017) <br>
