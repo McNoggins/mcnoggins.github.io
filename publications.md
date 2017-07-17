@@ -8,7 +8,7 @@ In peer-reviewed journals
 =============
 * **Suppression of multiphoton resonances in driven quantum systems via pulse shape optimization** <br>
 *Denis Gagnon*, François Fillion-Gourdeau, Joey Dumont, Catherine Lefebvre, and Steve MacLean  <br>
-Accepted for publication in Phys. Rev. Lett. (2017)
+Accepted for publication in Phys. Rev. Lett. (2017) <br>
 Full text |
 [arXiv.org](https://arxiv.org/abs/1703.04165){:target="_blank"}
 
