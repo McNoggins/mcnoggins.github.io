@@ -15,7 +15,7 @@ Full text |
 * **Pulse shape optimization for electron-positron production in rotating fields** <br>
 François Fillion-Gourdeau, Florian Hebenstreit, *Denis Gagnon*, and Steve MacLean <br>
 Phys. Rev. D **96**, 016012 (2017) <br>
-[Full text](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.016012)a{:target="_blank"} |
+[Full text](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.016012){:target="_blank"} |
 [arXiv.org](https://arxiv.org/abs/1704.08919){:target="_blank"}
 
 * **Efficiently parallelized modeling of tightly focused, large bandwidth laser pulses** <br>
