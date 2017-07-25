@@ -12,12 +12,17 @@ Accepted for publication in Phys. Rev. Lett. (2017) <br>
 Full text |
 [arXiv.org](https://arxiv.org/abs/1703.04165){:target="_blank"}
 
+* **Pulse shape optimization for electron-positron production in rotating fields** <br>
+François Fillion-Gourdeau, Florian Hebenstreit, *Denis Gagnon*, and Steve MacLean
+Phys. Rev. D **96**, 016012 (2017) <br>
+[Full text](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.016012)a{:target="_blank"} |
+[arXiv.org](https://arxiv.org/abs/1704.08919){:target="_blank"}
+
 * **Efficiently parallelized modeling of tightly focused, large bandwidth laser pulses** <br>
 Joey Dumont, François Fillion-Gourdeau, Catherine Lefebvre, *Denis Gagnon*, and Steve MacLean  <br>
  J. Opt. **19**, 025604 (2017) <br>
 [Full text](http://iopscience.iop.org/article/10.1088/2040-8986/aa52e9){:target="_blank"} |
 [arXiv.org](https://arxiv.org/abs/1609.08146){:target="_blank"}
-
 
 * **Coherent destruction of tunneling in graphene irradiated by elliptically polarized lasers** <br>
 *Denis Gagnon*, François Fillion-Gourdeau, Joey Dumont, Catherine Lefebvre, and Steve MacLean  <br>
