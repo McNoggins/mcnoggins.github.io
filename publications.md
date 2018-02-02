@@ -6,9 +6,16 @@ permalink: /publications/
 
 In peer-reviewed journals
 =============
+* **Optimization of carrier density in graphene via terahertz pulse shaping** <br>
+Denis Gagnon, Joey Dumont, François Fillion-Gourdeau, and Steve MacLean
+*Submitted for publication* <br>
+Full text |
+[arXiv.org](https://arxiv.org/abs/1710.09889){:target="_blank"}
+
 * **Carrier-envelope phase effects in graphene** <br>
 Catherine Lefebvre, *Denis Gagnon*, François Fillion-Gourdeau, and Steve MacLean  <br>
 *Submitted for publication* <br>
+Full text |
 [arXiv.org](https://arxiv.org/abs/1706.00055){:target="_blank"}
 
 * **Suppression of multiphoton resonances in driven quantum systems via pulse shape optimization** <br>
