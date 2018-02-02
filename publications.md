@@ -6,9 +6,14 @@ permalink: /publications/
 
 In peer-reviewed journals
 =============
+* **Carrier-envelope phase effects in graphene** <br>
+Catherine Lefebvre, *Denis Gagnon*, François Fillion-Gourdeau, and Steve MacLean  <br>
+*Submitted for publication* <br>
+[arXiv.org](https://arxiv.org/abs/1706.00055){:target="_blank"}
+
 * **Suppression of multiphoton resonances in driven quantum systems via pulse shape optimization** <br>
 *Denis Gagnon*, François Fillion-Gourdeau, Joey Dumont, Catherine Lefebvre, and Steve MacLean  <br>
-Phys. Rev. Lett. **119**, 053203 <br>
+Phys. Rev. Lett. **119**, 053203 (2017) <br>
 [Full text](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.053203){:target="_blank"} |
 [arXiv.org](https://arxiv.org/abs/1703.04165){:target="_blank"}
 
