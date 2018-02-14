@@ -7,7 +7,7 @@ permalink: /publications/
 In peer-reviewed journals
 =============
 * **Optimization of carrier density in graphene via terahertz pulse shaping** <br>
-Denis Gagnon, Joey Dumont, François Fillion-Gourdeau, and Steve MacLean <br>
+*Denis Gagnon*, Joey Dumont, François Fillion-Gourdeau, and Steve MacLean <br>
 *Submitted for publication* <br>
 Full text |
 [arXiv.org](https://arxiv.org/abs/1710.09889){:target="_blank"}
