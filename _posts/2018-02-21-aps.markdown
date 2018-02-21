@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "APS March Meeting and new affiliation"
+date:   2018-02-21 15:00:00
+categories: news
+--- 
+I'll be giving a talk at the APS March Meeting in Los Angeles on March 6, at 11:50 AM. My presentation will be titled [Controlling multiphoton absorption in Dirac materials via pulse shaping][APS].
+
+On a side note, I am now pursuing my 2D materials research in the [R. Martel group][UDM] in the Department of Chemistry, Universit&eacute; of Montr&eacute;al. 
+
+[APS]: http://meetings.aps.org/Meeting/MAR18/Session/F40.4
+[UDM]: http://chimie.umontreal.ca/en/repertoire-departement/vue/martel-richard/
