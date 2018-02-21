@@ -4,6 +4,6 @@ title:  "New article in Physical Review Letters"
 date:   2017-08-03 14:30:00
 categories: news
 --- 
-After almost a year in the making, our latest article was published in [Phys. Rev. Lett][Paper]. In this work, I use a combination of metaheuristics and Floquet theory to demonstrate control over quantum system via pulse shape optimization in the spectral domain. Writing this Letter was lots of fun!
+After almost a year in the making, our latest article was published in [Phys. Rev. Lett][Paper]. In this work, I use a combination of metaheuristics and Floquet theory to demonstrate control over quantum systems via pulse shape optimization in the spectral domain. Writing this Letter was lots of fun!
 
 [Paper]:      https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.053203
