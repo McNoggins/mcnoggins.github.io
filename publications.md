@@ -14,8 +14,8 @@ Full text |
 
 * **Carrier-envelope phase effects in graphene** <br>
 Catherine Lefebvre, *Denis Gagnon*, François Fillion-Gourdeau, and Steve MacLean  <br>
-*Submitted for publication* <br>
-Full text |
+J. Opt. Soc. Am. B (2018), Early view <br>
+[Full text](https://www.osapublishing.org/josab/upcoming_pdf.cfm?id=309178) |
 [arXiv.org](https://arxiv.org/abs/1706.00055){:target="_blank"}
 
 * **Suppression of multiphoton resonances in driven quantum systems via pulse shape optimization** <br>
