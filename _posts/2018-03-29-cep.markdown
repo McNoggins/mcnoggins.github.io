@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "New graphene article in JOSA B"
+date:   2018-03-29 16:01:00
+categories: news
+--- 
+The latest contribution of our group on carrier-envelope phase (CEP) effects in graphene can be found [here][Paper].
+
+In this article, we show how varying the CEP of a short THz pulse can affect the directionality of the photo-current in graphene.
+
+[Paper]:      https://www.osapublishing.org/josab/abstract.cfm?uri=josab-35-4-958
